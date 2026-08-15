@@ -220,6 +220,7 @@ __marimo__/
 # Environment
 .env
 venv/
+__pycache__/
 *.pyc
 *.pyo
 
