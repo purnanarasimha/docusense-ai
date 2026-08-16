@@ -1,0 +1,94 @@
+{
+  "attention_is_all_you_need": {
+    "valid": true,
+    "page_count": 15,
+    "image_count_first5": 3,
+    "has_text": true,
+    "title": "Attention Is All You Need",
+    "file_size_kb": 2163.32421875,
+    "name": "attention_is_all_you_need",
+    "url": "https://arxiv.org/pdf/1706.03762",
+    "type": "research_paper",
+    "description": "Original Transformer paper"
+  },
+  "rag_paper": {
+    "valid": true,
+    "page_count": 19,
+    "image_count_first5": 0,
+    "has_text": true,
+    "title": "RAG - Retrieval Augmented generation",
+    "file_size_kb": 864.5732421875,
+    "name": "rag_paper",
+    "url": "https://arxiv.org/pdf/2005.11401",
+    "type": "research_paper",
+    "description": "Original RAG paper by Facebook AI"
+  },
+  "llama2_paper": {
+    "valid": true,
+    "page_count": 77,
+    "image_count_first5": 4,
+    "has_text": true,
+    "title": "Llama 2 Paper",
+    "file_size_kb": 13341.11328125,
+    "name": "llama2_paper",
+    "url": "https://arxiv.org/pdf/2307.09288",
+    "type": "research_paper",
+    "description": "Meta Llama 2 technical report"
+  },
+  "bert_paper": {
+    "valid": true,
+    "page_count": 16,
+    "image_count_first5": 13,
+    "has_text": true,
+    "title": "BERT Paper",
+    "file_size_kb": 756.998046875,
+    "name": "bert_paper",
+    "url": "https://arxiv.org/pdf/1810.04805",
+    "type": "research_paper",
+    "description": "BERT: Pre-training of Deep Bidirectioinal Transformers"
+  },
+  "financial_report_techventure_2023": {
+    "valid": true,
+    "page_count": 3,
+    "image_count_first5": 0,
+    "has_text": true,
+    "title": "",
+    "file_size_kb": 3.244140625,
+    "name": "financial_report_techventure_2023",
+    "type": "financial_report",
+    "description": "Sample financial_report document"
+  },
+  "invoice_inv_2024_001": {
+    "valid": true,
+    "page_count": 1,
+    "image_count_first5": 0,
+    "has_text": true,
+    "title": "",
+    "file_size_kb": 1.31640625,
+    "name": "invoice_inv_2024_001",
+    "type": "invoice",
+    "description": "Sample invoice document"
+  },
+  "software_contract_2024": {
+    "valid": true,
+    "page_count": 1,
+    "image_count_first5": 0,
+    "has_text": true,
+    "title": "",
+    "file_size_kb": 1.6591796875,
+    "name": "software_contract_2024",
+    "type": "contract",
+    "description": "Sample contract document"
+  },
+  "financial_report_techventure_2022": {
+    "valid": true,
+    "page_count": 3,
+    "image_count_first5": 0,
+    "has_text": true,
+    "title": "",
+    "file_size_kb": 3.244140625,
+    "name": "financial_report_techventure_2022",
+    "type": "financial_report",
+    "description": "Sample financial_report document"
+  }
+}
