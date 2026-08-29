@@ -200,4 +200,4 @@ class IngestionPipeline:
 if __name__ == "__main__":
     pipeline = IngestionPipeline()
 
-    result = pipeline.run(skip_images=True)
+    result = pipeline.run(skip_images=False)
